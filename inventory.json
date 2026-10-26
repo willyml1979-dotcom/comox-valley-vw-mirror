@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Vw",
-  "generated_at": "2026-10-25T22:44:23",
-  "vehicle_count": 118,
+  "generated_at": "2026-10-25T22:47:56",
+  "vehicle_count": 117,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -62,6 +62,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
+      "vin": "1V2FC2CA5TC221743",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/f09acf98b630.html",
+      "condition": "new",
+      "price": 63612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
+      "vin": "1V2FC2CA8TC222546",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/08b4fe4779d9.html",
+      "condition": "new",
+      "price": 63612.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Volkswagen Jetta Comfortline Autoin Courtenay",
       "vin": "3VWSW7BU9TM033755",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/6986558aaabd.html",
@@ -99,6 +115,14 @@
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/2e2d8950e2ba.html",
       "condition": "new",
       "price": 40937.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline Blackin Courtenay",
+      "vin": "3VV2C7B25TM052122",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/5f81e6543c8e.html",
+      "condition": "new",
+      "price": 41437.0,
       "price_currency": "CAD"
     },
     {
@@ -1016,13 +1040,13 @@
     },
     {
       "name": "2026 Volkswagen Atlas ",
-      "vin": "1V2BN2CA2TC530837",
+      "vin": "1V2LN2CA2TC546296",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/79a630e5c656.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "new",
-      "price": 62912.0,
+      "price": 55312.0,
       "price_currency": "CAD"
     },
     {
@@ -1101,47 +1125,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
-      "vin": "1V2FC2CA5TC221743",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/f09acf98b630.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "new",
-      "price": 63612.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
-      "vin": "1V2FC2CA8TC222546",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/08b4fe4779d9.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "new",
-      "price": 63612.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Taos Comfortline Blackin Courtenay",
-      "vin": "3VV2C7B25TM052122",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/5f81e6543c8e.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 41437.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Volkswagen Atlas ",
-      "vin": "1V2F53DH8VC503874",
+      "vin": "1V2D53DH1VC502492",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/eca149b5c94b.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "new",
-      "price": 66562.0,
+      "price": 63662.0,
       "price_currency": "CAD"
     },
     {
@@ -1186,17 +1177,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 43162.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Atlas Execline 2.0 Tsiin Courtenay",
-      "vin": "1V2F53DH7VC501128",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/0d1fd065a5e6.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new",
-      "price": 66562.0,
       "price_currency": "CAD"
     }
   ]
