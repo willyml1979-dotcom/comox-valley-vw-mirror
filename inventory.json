@@ -1,289 +1,145 @@
 {
   "dealership": "Comox Valley Vw",
-  "generated_at": "2026-10-26T07:35:23",
-  "vehicle_count": 117,
+  "generated_at": "2026-11-17T07:58:06",
+  "vehicle_count": 123,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
-      "vin": "1V2FC2CA7TC217810",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/d3fa3047afaf.html",
-      "condition": "new",
-      "price": 63612.0,
+      "name": "Volkswagen Golf Wagon 2012 for salein Courtenay",
+      "vin": "3VWML7AJ8CM628864",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/23de982510da.html",
+      "condition": "used",
+      "price": 14745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
-      "vin": "1V2FC2CA1TC218743",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/eb86305ea91b.html",
-      "condition": "new",
-      "price": 65012.0,
+      "name": "Volkswagen Beetle Convertible 2018 for salein Courtenay",
+      "vin": "3VWTDAAT1JM517013",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/44622b4baeb8.html",
+      "condition": "used",
+      "price": 33745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
-      "vin": "1V2FC2CA0TC219401",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/82bba3abaffd.html",
-      "condition": "new",
-      "price": 63612.0,
+      "name": "Volkswagen Tiguan 2021 for salein Courtenay",
+      "vin": "3VV0B7AX4MM150552",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/8c357c7c44c6.html",
+      "condition": "used",
+      "price": 23650.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
-      "vin": "1V2FC2CA6TC219161",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/78ec525be217.html",
-      "condition": "new",
-      "price": 63612.0,
+      "name": "Volkswagen Taos 2023 for salein Courtenay",
+      "vin": "3VVCX7B29PM342023",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/e6a151c4aa06.html",
+      "condition": "used",
+      "price": 19250.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
-      "vin": "1V2FC2CA1TC220511",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/c3e81f89ac70.html",
-      "condition": "new",
-      "price": 63612.0,
+      "name": "Volkswagen Tiguan 2023 for salein Courtenay",
+      "vin": "3VVFB7AX8PM080519",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/423c6847087d.html",
+      "condition": "used",
+      "price": 27650.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Atlas Cross Sport Highline 4motionin Courtenay",
-      "vin": "1V2BC2CA5TC221191",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/2f35987e208d.html",
-      "condition": "new",
-      "price": 61212.0,
+      "name": "Volkswagen Atlas 2024 for salein Courtenay",
+      "vin": "1V2FR2CA4RC513035",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/bc4955ccde09.html",
+      "condition": "used",
+      "price": 44745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Atlas Cross Sport Highline 4motionin Courtenay",
-      "vin": "1V2BC2CA6TC221698",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/eeb205bc155a.html",
-      "condition": "new",
-      "price": 61912.0,
+      "name": "Volkswagen Atlas Cross Sport 2024 for salein Courtenay",
+      "vin": "1V2FE2CA6RC263390",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/04465fdd1fae.html",
+      "condition": "used",
+      "price": 44250.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
-      "vin": "1V2FC2CA5TC221743",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/f09acf98b630.html",
-      "condition": "new",
-      "price": 63612.0,
+      "name": "Volkswagen ID.4 2024 for salein Courtenay",
+      "vin": "1V2KMPE89RC008015",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/facb8b28dbda.html",
+      "condition": "used",
+      "price": 37649.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
-      "vin": "1V2FC2CA8TC222546",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/08b4fe4779d9.html",
-      "condition": "new",
-      "price": 63612.0,
+      "name": "Volkswagen Jetta 2024 for salein Courtenay",
+      "vin": "3VWEM7BU4RM040950",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/9ab45a9197f3.html",
+      "condition": "used",
+      "price": 27745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Courtenay",
-      "vin": "3VWSW7BU9TM033755",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/6986558aaabd.html",
-      "condition": "new",
-      "price": 34512.0,
+      "name": "Volkswagen Taos 2024 for salein Courtenay",
+      "vin": "3VVEX7B2XRM008594",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/7901ae9ae56c.html",
+      "condition": "used",
+      "price": 25650.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline 4motionin Courtenay",
-      "vin": "3VVVC7B2XTM018982",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/59fef7f042ff.html",
-      "condition": "new",
-      "price": 40937.0,
+      "name": "Volkswagen Tiguan 2024 for salein Courtenay",
+      "vin": "3VV2B7AXXRM124411",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/ca57c62663ff.html",
+      "condition": "used",
+      "price": 30650.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline Blackin Courtenay",
-      "vin": "3VV2C7B23TM033911",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/77ccf7b2e8e6.html",
-      "condition": "new",
-      "price": 40637.0,
+      "name": "GMC Sierra 1500 2026 for salein Courtenay",
+      "vin": "1GTUUCED4TZ432237",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/4cd734a41a63.html",
+      "condition": "used",
+      "price": 75745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Highline 4motionin Courtenay",
-      "vin": "3VV4C7B20TM040534",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/813ef9da2309.html",
-      "condition": "new",
-      "price": 42437.0,
+      "name": "Toyota Tacoma 2026 for salein Courtenay",
+      "vin": "3TYLB5JN1TT124671",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/0e306d0eba6e.html",
+      "condition": "used",
+      "price": 60745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline Blackin Courtenay",
-      "vin": "3VV2C7B26TM050623",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/2e2d8950e2ba.html",
-      "condition": "new",
-      "price": 40937.0,
+      "name": "Volkswagen Taos 2026 for salein Courtenay",
+      "vin": "3VVUC7B25TM010011",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/189b8e36189d.html",
+      "condition": "used",
+      "price": 33745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline Blackin Courtenay",
-      "vin": "3VV2C7B25TM052122",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/5f81e6543c8e.html",
-      "condition": "new",
-      "price": 41437.0,
+      "name": "Volkswagen Tiguan 2026 for salein Courtenay",
+      "vin": "3VVBR7RMXTM068791",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/c8b10ca029de.html",
+      "condition": "used",
+      "price": 36745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Tiguan Comfortline 4motionin Courtenay",
-      "vin": "3VVMR7RM5TM016316",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/b12ed726e635.html",
-      "condition": "new",
-      "price": 45562.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan Comfortline 4motionin Courtenay",
-      "vin": "3VVMR7RM4TM017134",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/e01468c11bf2.html",
-      "condition": "new",
-      "price": 45562.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Tiguan Trendline 4motionin Courtenay",
-      "vin": "3VVBR7RM5TM051350",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/4bef48e4f4bd.html",
-      "condition": "new",
-      "price": 41562.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Atlas Execline 2.0 Tsiin Courtenay",
-      "vin": "1V2F53DH8VC503874",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/09085e45f348.html",
-      "condition": "new",
-      "price": 66562.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Atlas Execline 2.0 Tsiin Courtenay",
-      "vin": "1V2F53DH5VC502343",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/bbf453f3eca9.html",
-      "condition": "new",
-      "price": 65862.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Atlas Highline 2.0 Tsiin Courtenay",
-      "vin": "1V2D53DH1VC502492",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/c8469812acd4.html",
-      "condition": "new",
-      "price": 63662.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen GLI Sedanin Courtenay",
-      "vin": "3VW2M7BUXVM012423",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/88e4b9498fe0.html",
-      "condition": "new",
-      "price": 38562.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Courtenay",
-      "vin": "3VWSW7BU9VM008857",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/1884787166da.html",
-      "condition": "new",
-      "price": 33262.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Courtenay",
-      "vin": "3VWSW7BU6VM014468",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/9698147708db.html",
-      "condition": "new",
-      "price": 33262.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Trendline 4motionin Courtenay",
-      "vin": "3VV8D7B26VM002257",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/ec9e4ae1e9b7.html",
-      "condition": "new",
-      "price": 34462.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Comfortline Blackin Courtenay",
-      "vin": "3VV2D7B20VM009078",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/3792d9e1d042.html",
-      "condition": "new",
-      "price": 40262.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Comfortline Blackin Courtenay",
-      "vin": "3VV2D7B2XVM016460",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/a82961e7dd90.html",
-      "condition": "new",
-      "price": 40762.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Comfortline Blackin Courtenay",
-      "vin": "3VV2D7B20VM024955",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/963cf0c1ac64.html",
-      "condition": "new",
-      "price": 40762.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Tiguan Highline Turbo Rin Courtenay",
-      "vin": "3VVUW7RMXVM004075",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/949aa0b65db7.html",
-      "condition": "new",
-      "price": 52162.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Tiguan Highline Turbo Rin Courtenay",
-      "vin": "3VVUW7RM6VM003134",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/9966543428b0.html",
-      "condition": "new",
-      "price": 52662.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Tiguan Comfortline 4motionin Courtenay",
-      "vin": "3VVER7RM1VM008799",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/a25236c7816e.html",
-      "condition": "new",
-      "price": 43162.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Tiguan Comfortline R-Linein Courtenay",
-      "vin": "3VVGR7RM2VM008030",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/75bde79f920d.html",
-      "condition": "new",
-      "price": 47162.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Tiguan Trendline 4motionin Courtenay",
-      "vin": "3VVBR7RM7VM009099",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/9cb91880fcce.html",
-      "condition": "new",
-      "price": 39662.0,
+      "name": "2012 Volkswagen Golf Wagon 4dr TDI Man Highlinein Courtenay",
+      "vin": "3VWML7AJ8CM628864",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/3356e45621fd.html",
+      "year": 2012,
+      "make": "Volkswagen",
+      "model": "Golf",
+      "condition": "used",
+      "price": 14745.0,
       "price_currency": "CAD"
     },
     {
       "name": "2018 Volkswagen Beetle Convertible Dune Autoin Courtenay",
       "vin": "3VWTDAAT1JM517013",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/1a10cdeb99a4.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "used",
-      "price": 33745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Volkswagen Beetle Convertible ",
-      "vin": "3VWTDAAT1JM517013",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/44622b4baeb8.html",
       "year": 2018,
       "make": "Volkswagen",
       "model": "Beetle",
@@ -353,7 +209,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Beetle Convertible Wolfsburg Edition Autoin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "price": 38745.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 Volkswagen Beetle Convertible ",
@@ -362,24 +220,6 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Beetle",
-      "condition": "used"
-    },
-    {
-      "name": "2019 Volkswagen Golf Alltrack Highline DSGin Courtenay",
-      "vin": "3VWH17AU9KM504182",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/e05cde0f5574.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "used"
-    },
-    {
-      "name": "2019 Volkswagen Golf Alltrack ",
-      "vin": "3VWH17AU9KM504182",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/c5f2ea732585.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Golf",
       "condition": "used"
     },
     {
@@ -445,40 +285,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 25745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Tiguan ",
-      "vin": "3VV0B7AX4MM150552",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/8c357c7c44c6.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 25745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Atlas Cross Sport Highline 3.6 FSI 4MOTIONin Courtenay",
-      "vin": "1V2AE2CA1NC225358",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/2dd2892f9604.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used",
-      "price": 33650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2AE2CA1NC225358",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/b65a5d672f1b.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used",
-      "price": 33650.0,
+      "price": 23650.0,
       "price_currency": "CAD"
     },
     {
@@ -490,17 +297,6 @@
       "model": "Atlas Cross Sport",
       "condition": "new",
       "price": 33650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen ID.4 Pro AWD w/SK On Batteryin Courtenay",
-      "vin": "1V28NPE86PC057001",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/ea3313f6d193.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "used",
-      "price": 43250.0,
       "price_currency": "CAD"
     },
     {
@@ -537,42 +333,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen Taos Trendline 4MOTION *Ltd Avail*in Courtenay",
-      "vin": "3VVAX7B24PM325251",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/92b8d9b334cc.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Taos Trendline 4MOTION *Ltd Avail*in Courtenay",
-      "condition": "used",
-      "price": 22650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Taos ",
-      "vin": "3VVCX7B29PM342023",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/e6a151c4aa06.html",
+      "name": "2023 Volkswagen Taos Highline 4MOTION *Ltd Avail*in Courtenay",
+      "vin": "3VV2X7B25PM332164",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/84eb0bea3f8e.html",
       "year": 2023,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 20650.0,
+      "price": 29745.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023 Volkswagen Tiguan Trendline 4MOTIONin Courtenay",
       "vin": "3VVFB7AX8PM080519",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/976a9d44add0.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 29250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Tiguan ",
-      "vin": "3VVFB7AX8PM080519",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/423c6847087d.html",
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
@@ -614,24 +388,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC Sierra 1500 Crew Cab Short Box 4in Courtenay",
-      "vin": "3GTUUGE8XRG116893",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/2eb2b505d25c.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500 Crew Cab Short Box 4in Courtenay",
-      "condition": "used"
-    },
-    {
-      "name": "2024 GMC Sierra 1500 ",
-      "vin": "3GTUUGE8XRG116893",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/aeeee786eba0.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used"
-    },
-    {
       "name": "2024 GMC Sierra 1500 ",
       "vin": "3GTUUGE8XRG116893",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/aeeee786eba0.html",
@@ -641,6 +397,17 @@
       "condition": "new"
     },
     {
+      "name": "2024 Volkswagen Atlas Execline 2.0 Tsiin Courtenay",
+      "vin": "1V2FR2CA4RC513035",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/d8e15d65bdf1.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "used",
+      "price": 44745.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Volkswagen Atlas Cross Sport Execline 2.0 TSI 4MOTIONin Courtenay",
       "vin": "1V2FE2CA6RC263390",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/6597ffb5ac3d.html",
@@ -648,18 +415,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 46650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2FE2CA6RC263390",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/04465fdd1fae.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "used",
-      "price": 46650.0,
+      "price": 44250.0,
       "price_currency": "CAD"
     },
     {
@@ -674,25 +430,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen ID.4 ",
-      "vin": "1V2KMPE89RC008015",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/facb8b28dbda.html",
+      "name": "2024 Volkswagen Jetta Comfortline Autoin Courtenay",
+      "vin": "3VWEM7BU4RM040950",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/5f0cf4fcde0d.html",
       "year": 2024,
       "make": "Volkswagen",
-      "model": "ID.4",
+      "model": "Jetta",
       "condition": "used",
-      "price": 39250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taos Trendline 4MOTIONin Courtenay",
-      "vin": "3VVGX7B26RM076562",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/ea540af7d7a0.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 24650.0,
+      "price": 27745.0,
       "price_currency": "CAD"
     },
     {
@@ -703,29 +448,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 27650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVGX7B26RM076562",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/7901ae9ae56c.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 24650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan Comfortline 4MOTIONin Courtenay",
-      "vin": "3VV2B7AX3RM173403",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/205794a75e4f.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 30650.0,
+      "price": 25650.0,
       "price_currency": "CAD"
     },
     {
@@ -737,17 +460,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 32745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX3RM173403",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/ca57c62663ff.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 30650.0,
       "price_currency": "CAD"
     },
     {
@@ -798,17 +510,6 @@
       "name": "2025 Audi Q3 Progressiv 45 TFSI quattroin Courtenay",
       "vin": "WA1EECF31S1112355",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/1cdb38189459.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 40650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 Progressiv 45 TFSI quattroin Courtenay",
-      "vin": "WA1EECF34S1112382",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/a7a43edcd98a.html",
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
@@ -884,13 +585,13 @@
     },
     {
       "name": "2025 Volkswagen ID. Buzz 1st Edition 4MOTIONin Courtenay",
-      "vin": "WVG6YVEB0SH029959",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/83b675b8e5fb.html",
+      "vin": "WVG6YVEB5SH038608",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/49244adbd6d1.html",
       "year": 2025,
       "make": "Volkswagen",
       "model": "ID. Buzz",
       "condition": "used",
-      "price": 67550.0,
+      "price": 69745.0,
       "price_currency": "CAD"
     },
     {
@@ -902,28 +603,6 @@
       "model": "ID. Buzz",
       "condition": "used",
       "price": 67550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos Comfortline 4MOTIONin Courtenay",
-      "vin": "3VVUC7B23SM065071",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/07129f383c0d.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 30650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VVUC7B23SM065071",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/a4a53b43025e.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 30650.0,
       "price_currency": "CAD"
     },
     {
@@ -1015,7 +694,62 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Taos Comfortline 4motionin Courtenay",
+      "name": "2026 GMC Sierra 1500 Crew Cab Short Box 4-Wheel Drive Elevationin Courtenay",
+      "vin": "1GTUUCED4TZ432237",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/9435bcc63f24.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Elevationin Courtenay",
+      "condition": "used",
+      "price": 75745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4in Courtenay",
+      "vin": "3GTUUEE82TG224856",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/c21c4e0342e7.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4in Courtenay",
+      "condition": "used",
+      "price": 77745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4in Courtenay",
+      "vin": "3GTUUEE86TG226111",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/021c177988c6.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4in Courtenay",
+      "condition": "used",
+      "price": 77745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4in Courtenay",
+      "vin": "3GTUUEE86TG255821",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/22e0f6829e0a.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT4in Courtenay",
+      "condition": "used",
+      "price": 77745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Tacoma 4x4 Double Cab Auto SBin Courtenay",
+      "vin": "3TYLB5JN1TT124671",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/49b71511a8a2.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "used",
+      "price": 60745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Taos Comfortline 4MOTIONin Courtenay",
       "vin": "3VVUC7B25TM010011",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/8e58b2569609.html",
       "year": 2026,
@@ -1026,14 +760,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Taos ",
-      "vin": "3VVUC7B25TM010011",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/189b8e36189d.html",
+      "name": "2026 Volkswagen Tiguan Comfortline 4MOTIONin Courtenay",
+      "vin": "3VVER7RM8TM004097",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/54d647c918a5.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Tiguan",
       "condition": "used",
-      "price": 33745.0,
+      "price": 37745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Tiguan Comfortline 4MOTIONin Courtenay",
+      "vin": "3VVER7RM8TM012331",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/9142802dea18.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 37745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Tiguan Trendline 4MOTIONin Courtenay",
+      "vin": "3VVBR7RMXTM068791",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/4ea3bf6d1f36.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 36745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Tiguan Highline Turbo Rin Courtenay",
+      "vin": "3VVUW7RM4TM049574",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/f40d0db09d51.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 50745.0,
       "price_currency": "CAD"
     },
     {
@@ -1123,6 +890,204 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
+      "vin": "1V2FC2CA7TC217810",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/d3fa3047afaf.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "price": 63612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
+      "vin": "1V2FC2CA1TC218743",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/eb86305ea91b.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "price": 65012.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
+      "vin": "1V2FC2CA0TC219401",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/82bba3abaffd.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "price": 63612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
+      "vin": "1V2FC2CA6TC219161",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/78ec525be217.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "price": 63612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
+      "vin": "1V2FC2CA1TC220511",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/c3e81f89ac70.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "price": 63612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Highline 4motionin Courtenay",
+      "vin": "1V2BC2CA5TC221191",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/2f35987e208d.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "price": 61212.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Highline 4motionin Courtenay",
+      "vin": "1V2BC2CA6TC221698",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/eeb205bc155a.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "price": 61912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
+      "vin": "1V2FC2CA5TC221743",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/f09acf98b630.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "price": 63612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Atlas Cross Sport Execline 4motionin Courtenay",
+      "vin": "1V2FC2CA8TC222546",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/08b4fe4779d9.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "new",
+      "price": 63612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortline Autoin Courtenay",
+      "vin": "3VWSW7BU9TM033755",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/6986558aaabd.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 34512.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline 4motionin Courtenay",
+      "vin": "3VVVC7B2XTM018982",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/59fef7f042ff.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40937.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline Blackin Courtenay",
+      "vin": "3VV2C7B23TM033911",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/77ccf7b2e8e6.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40637.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Highline 4motionin Courtenay",
+      "vin": "3VV4C7B20TM040534",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/813ef9da2309.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 42437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline Blackin Courtenay",
+      "vin": "3VV2C7B26TM050623",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/2e2d8950e2ba.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40937.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline Blackin Courtenay",
+      "vin": "3VV2C7B25TM052122",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/5f81e6543c8e.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 41437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Comfortline 4motionin Courtenay",
+      "vin": "3VVMR7RM5TM016316",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/b12ed726e635.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 45562.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Comfortline 4motionin Courtenay",
+      "vin": "3VVMR7RM4TM017134",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/e01468c11bf2.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 45562.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendline 4motionin Courtenay",
+      "vin": "3VVBR7RM5TM051350",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/4bef48e4f4bd.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 41562.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Volkswagen Atlas ",
       "vin": "1V2D53DH1VC502492",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/eca149b5c94b.html",
@@ -1175,6 +1140,171 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 43162.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Atlas Execline 2.0 Tsiin Courtenay",
+      "vin": "1V2F53DH8VC503874",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/09085e45f348.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "new",
+      "price": 66562.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Atlas Execline 2.0 Tsiin Courtenay",
+      "vin": "1V2F53DH5VC502343",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/bbf453f3eca9.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "new",
+      "price": 65862.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Atlas Highline 2.0 Tsiin Courtenay",
+      "vin": "1V2D53DH1VC502492",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/c8469812acd4.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "new",
+      "price": 63662.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen GLI Sedanin Courtenay",
+      "vin": "3VW2M7BUXVM012423",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/88e4b9498fe0.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "GLI",
+      "condition": "new",
+      "price": 38562.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Courtenay",
+      "vin": "3VWSW7BU9VM008857",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/1884787166da.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 33262.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Courtenay",
+      "vin": "3VWSW7BU6VM014468",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/9698147708db.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 33262.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Trendline 4motionin Courtenay",
+      "vin": "3VV8D7B26VM002257",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/ec9e4ae1e9b7.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 34462.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline Blackin Courtenay",
+      "vin": "3VV2D7B20VM009078",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/3792d9e1d042.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40262.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline Blackin Courtenay",
+      "vin": "3VV2D7B2XVM016460",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/a82961e7dd90.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40762.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline Blackin Courtenay",
+      "vin": "3VV2D7B20VM024955",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/963cf0c1ac64.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40762.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Highline Turbo Rin Courtenay",
+      "vin": "3VVUW7RMXVM004075",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/949aa0b65db7.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 52162.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Highline Turbo Rin Courtenay",
+      "vin": "3VVUW7RM6VM003134",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/9966543428b0.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 52662.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortline 4motionin Courtenay",
+      "vin": "3VVER7RM1VM008799",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/a25236c7816e.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 43162.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortline R-Linein Courtenay",
+      "vin": "3VVGR7RM2VM008030",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/75bde79f920d.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 47162.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Trendline 4motionin Courtenay",
+      "vin": "3VVBR7RM7VM009099",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/9cb91880fcce.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 39662.0,
       "price_currency": "CAD"
     }
   ]
