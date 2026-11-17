@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Vw",
-  "generated_at": "2026-11-17T07:58:06",
-  "vehicle_count": 123,
+  "generated_at": "2026-11-17T08:03:08",
+  "vehicle_count": 124,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -126,6 +126,30 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Atlas 2019 for salein Courtenay",
+      "vin": "1V2LR2CA5KC537319",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/87bda1bb21fd.html",
+      "condition": "new",
+      "price": 26650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Beetle Convertible 2019 for salein Courtenay",
+      "vin": "3VW5DAAT1KM500853",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/47ac14a32486.html",
+      "condition": "new",
+      "price": 35745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2020 for salein Courtenay",
+      "vin": "3VV4B7AX0LM053445",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/8fd661a0d852.html",
+      "condition": "new",
+      "price": 26650.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2012 Volkswagen Golf Wagon 4dr TDI Man Highlinein Courtenay",
       "vin": "3VWML7AJ8CM628864",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/3356e45621fd.html",
@@ -145,17 +169,6 @@
       "model": "Beetle",
       "condition": "used",
       "price": 33745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Volkswagen Golf ",
-      "vin": "3VWG17AU9JM292586",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/a90dee69945f.html",
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "new",
-      "price": 22250.0,
       "price_currency": "CAD"
     },
     {
@@ -223,28 +236,6 @@
       "condition": "used"
     },
     {
-      "name": "2019 Volkswagen Atlas ",
-      "vin": "1V2LR2CA5KC537319",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/87bda1bb21fd.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new",
-      "price": 29745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Beetle Convertible ",
-      "vin": "3VW5DAAT1KM500853",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/47ac14a32486.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "new",
-      "price": 35745.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Volkswagen Tiguan Highline 4MOTIONin Courtenay",
       "vin": "3VV4B7AX0LM053445",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/68e980683da9.html",
@@ -267,17 +258,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Volkswagen Tiguan ",
-      "vin": "3VV4B7AX6LM109002",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/8fd661a0d852.html",
-      "year": 2020,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 26650.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Volkswagen Tiguan Trendline 4MOTIONin Courtenay",
       "vin": "3VV0B7AX4MM150552",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/0bb45c36ff2e.html",
@@ -286,17 +266,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 23650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2AE2CA1NC225358",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/b65a5d672f1b.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "new",
-      "price": 33650.0,
       "price_currency": "CAD"
     },
     {
@@ -919,7 +888,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
-      "price": 63612.0,
+      "price": 59212.0,
       "price_currency": "CAD"
     },
     {
@@ -930,7 +899,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
-      "price": 63612.0,
+      "price": 59212.0,
       "price_currency": "CAD"
     },
     {
@@ -941,7 +910,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
-      "price": 63612.0,
+      "price": 59212.0,
       "price_currency": "CAD"
     },
     {
@@ -952,7 +921,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
-      "price": 61212.0,
+      "price": 56212.0,
       "price_currency": "CAD"
     },
     {
@@ -963,7 +932,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
-      "price": 61912.0,
+      "price": 56912.0,
       "price_currency": "CAD"
     },
     {
@@ -1132,14 +1101,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Tiguan ",
-      "vin": "3VVER7RM1VM008799",
+      "name": "2027 Volkswagen Tiguanin Courtenay",
+      "vin": "3VVBR7RM7VM009099",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/af459895108a.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Tiguanin Courtenay",
       "condition": "new",
-      "price": 43162.0,
+      "price": 40887.0,
       "price_currency": "CAD"
     },
     {
@@ -1209,6 +1178,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Jetta Comfortline Sedanin Courtenay",
+      "vin": "3VWEW7BU9VM019662",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/f646b239bb0e.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 33712.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Volkswagen Taos Trendline 4motionin Courtenay",
       "vin": "3VV8D7B26VM002257",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/ec9e4ae1e9b7.html",
@@ -1238,7 +1218,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 40762.0,
+      "price": 42937.0,
       "price_currency": "CAD"
     },
     {
@@ -1275,14 +1255,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen Tiguan Comfortline 4motionin Courtenay",
+      "name": "2027 Volkswagen Tiguan Comfortline 4motion demoin Courtenay",
       "vin": "3VVER7RM1VM008799",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/a25236c7816e.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 43162.0,
+      "price": 45362.0,
       "price_currency": "CAD"
     },
     {
@@ -1293,7 +1273,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 47162.0,
+      "price": 49362.0,
       "price_currency": "CAD"
     },
     {
@@ -1305,6 +1285,28 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 39662.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortline R-Linein Courtenay",
+      "vin": "3VVGR7RM6VM006457",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/f73448d4ed7a.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 49862.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortline R-Linein Courtenay",
+      "vin": "3VVGR7RM3VM020235",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/d99cf98526a2.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 48862.0,
       "price_currency": "CAD"
     }
   ]
