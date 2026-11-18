@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Vw",
-  "generated_at": "2026-11-17T23:58:54",
-  "vehicle_count": 124,
+  "generated_at": "2026-11-18T00:02:07",
+  "vehicle_count": 123,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -182,6 +182,46 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen ID.4 2023 for salein Courtenay",
+      "vin": "1V29NPE82PC048297",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/dbf98acecc7c.html",
+      "condition": "new",
+      "price": 39650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2023 for salein Courtenay",
+      "vin": "3VVCX7B29PM342023",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/e6a151c4aa06.html",
+      "condition": "new",
+      "price": 19250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2023 for salein Courtenay",
+      "vin": "3VVFB7AX8PM080519",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/423c6847087d.html",
+      "condition": "new",
+      "price": 27650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas Cross Sport 2024 for salein Courtenay",
+      "vin": "1V2FE2CA6RC263390",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/04465fdd1fae.html",
+      "condition": "new",
+      "price": 44250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen ID.4 2024 for salein Courtenay",
+      "vin": "1V2KMPE89RC008015",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/facb8b28dbda.html",
+      "condition": "new",
+      "price": 37649.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2012 Volkswagen Golf Wagon 4dr TDI Man Highlinein Courtenay",
       "vin": "3VWML7AJ8CM628864",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/3356e45621fd.html",
@@ -356,48 +396,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen ID.4 ",
-      "vin": "1V29NPE82PC048297",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/dbf98acecc7c.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "new",
-      "price": 40650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Taos ",
-      "vin": "3VVCX7B29PM342023",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/e6a151c4aa06.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 20650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Tiguan ",
-      "vin": "3VVFB7AX8PM080519",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/423c6847087d.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 29250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Sierra 1500 ",
-      "vin": "3GTUUGE8XRG116893",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/aeeee786eba0.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new"
-    },
-    {
       "name": "2024 Volkswagen Atlas Execline 2.0 Tsiin Courtenay",
       "vin": "1V2FR2CA4RC513035",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/d8e15d65bdf1.html",
@@ -461,28 +459,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 32745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2FE2CA6RC263390",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/04465fdd1fae.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
-      "condition": "new",
-      "price": 46650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen ID.4 ",
-      "vin": "1V2KMPE89RC008015",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/facb8b28dbda.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "new",
-      "price": 39250.0,
       "price_currency": "CAD"
     },
     {
@@ -1107,7 +1083,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "new",
-      "price": 66562.0,
+      "price": 69012.0,
       "price_currency": "CAD"
     },
     {
@@ -1129,7 +1105,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "new",
-      "price": 63662.0,
+      "price": 66112.0,
       "price_currency": "CAD"
     },
     {
@@ -1140,7 +1116,7 @@
       "make": "Volkswagen",
       "model": "GLI",
       "condition": "new",
-      "price": 38562.0,
+      "price": 40612.0,
       "price_currency": "CAD"
     },
     {
@@ -1162,7 +1138,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 33262.0,
+      "price": 35312.0,
       "price_currency": "CAD"
     },
     {
@@ -1217,7 +1193,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 40762.0,
+      "price": 42937.0,
       "price_currency": "CAD"
     },
     {
@@ -1228,7 +1204,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 52162.0,
+      "price": 54362.0,
       "price_currency": "CAD"
     },
     {
@@ -1239,7 +1215,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 52662.0,
+      "price": 54862.0,
       "price_currency": "CAD"
     },
     {
@@ -1272,7 +1248,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 39662.0,
+      "price": 41862.0,
       "price_currency": "CAD"
     },
     {
