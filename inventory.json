@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Vw",
-  "generated_at": "2026-11-18T00:02:07",
+  "generated_at": "2026-11-18T09:17:06",
   "vehicle_count": 123,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -22,11 +22,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Atlas 2019 for salein Courtenay",
+      "vin": "1V2LR2CA5KC537319",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/87bda1bb21fd.html",
+      "condition": "used",
+      "price": 26650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Beetle Convertible 2019 for salein Courtenay",
+      "vin": "3VW5DAAT1KM500853",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/47ac14a32486.html",
+      "condition": "used",
+      "price": 35745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2020 for salein Courtenay",
+      "vin": "3VV4B7AX0LM053445",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/8fd661a0d852.html",
+      "condition": "used",
+      "price": 26650.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Tiguan 2021 for salein Courtenay",
       "vin": "3VV0B7AX4MM150552",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/8c357c7c44c6.html",
       "condition": "used",
       "price": 23650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen ID.4 2023 for salein Courtenay",
+      "vin": "1V29NPE82PC048297",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/dbf98acecc7c.html",
+      "condition": "used",
+      "price": 39650.0,
       "price_currency": "CAD"
     },
     {
@@ -255,17 +287,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Volkswagen Atlas ",
-      "vin": "1V2LR2CA5KC537319",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/87bda1bb21fd.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 29745.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Volkswagen Beetle Convertible Wolfsburg Edition Autoin Courtenay",
       "vin": "3VW5DAAT1KM500853",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/8ade0b830c01.html",
@@ -299,15 +320,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Volkswagen Beetle Convertible ",
-      "vin": "3VW5DAAT4KM504458",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/47ac14a32486.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "used"
-    },
-    {
       "name": "2020 Volkswagen Tiguan Highline 4MOTIONin Courtenay",
       "vin": "3VV4B7AX0LM053445",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/68e980683da9.html",
@@ -316,17 +328,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 26650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Volkswagen Tiguan ",
-      "vin": "3VV4B7AX0LM053445",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/8fd661a0d852.html",
-      "year": 2020,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 28650.0,
       "price_currency": "CAD"
     },
     {
@@ -348,18 +349,7 @@
       "make": "Volkswagen",
       "model": "ID.4",
       "condition": "used",
-      "price": 40650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen ID.4 ",
-      "vin": "1V29NPE82PC048297",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/dbf98acecc7c.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "used",
-      "price": 40650.0,
+      "price": 39650.0,
       "price_currency": "CAD"
     },
     {
@@ -392,7 +382,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 29250.0,
+      "price": 27650.0,
       "price_currency": "CAD"
     },
     {
@@ -425,7 +415,7 @@
       "make": "Volkswagen",
       "model": "ID.4",
       "condition": "used",
-      "price": 39250.0,
+      "price": 37649.0,
       "price_currency": "CAD"
     },
     {
@@ -458,7 +448,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 32745.0,
+      "price": 30650.0,
       "price_currency": "CAD"
     },
     {
@@ -557,7 +547,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 40745.0,
+      "price": 38250.0,
       "price_currency": "CAD"
     },
     {
