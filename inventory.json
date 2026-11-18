@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Vw",
-  "generated_at": "2026-11-18T09:17:06",
-  "vehicle_count": 123,
+  "generated_at": "2026-11-18T09:22:18",
+  "vehicle_count": 122,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -254,6 +254,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Taos 2024 for salein Courtenay",
+      "vin": "3VVEX7B2XRM008594",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/7901ae9ae56c.html",
+      "condition": "new",
+      "price": 25650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2024 for salein Courtenay",
+      "vin": "3VV2B7AXXRM124411",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/ca57c62663ff.html",
+      "condition": "new",
+      "price": 30650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q3 2025 for salein Courtenay",
+      "vin": "WA1EECF31S1112355",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/c5e00596bbee.html",
+      "condition": "new",
+      "price": 39650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q5 2025 for salein Courtenay",
+      "vin": "WA14AAFY5S2007836",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/4e85aa68ae48.html",
+      "condition": "new",
+      "price": 55250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen ID. Buzz 2025 for salein Courtenay",
+      "vin": "WVG6YVEB5SH038608",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/f2908347cccd.html",
+      "condition": "new",
+      "price": 69745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2025 for salein Courtenay",
+      "vin": "3VVMR7RMXSM010249",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/fd7ae6aa765f.html",
+      "condition": "new",
+      "price": 38250.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2012 Volkswagen Golf Wagon 4dr TDI Man Highlinein Courtenay",
       "vin": "3VWML7AJ8CM628864",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/3356e45621fd.html",
@@ -452,28 +500,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVGX7B26RM076562",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/7901ae9ae56c.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 24650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX3RM173403",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/ca57c62663ff.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 30650.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Audi Q3 Progressiv 45 TFSI quattroin Courtenay",
       "vin": "WA1EECF31S1112355",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/1cdb38189459.html",
@@ -504,28 +530,6 @@
       "model": "Q5",
       "condition": "used",
       "price": 55250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 ",
-      "vin": "WA1EECF34S1112382",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/c5e00596bbee.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "new",
-      "price": 40650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q5 ",
-      "vin": "WA14AAFY5S2007836",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/4e85aa68ae48.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "new",
-      "price": 56650.0,
       "price_currency": "CAD"
     },
     {
@@ -581,39 +585,6 @@
       "model": "Tiguan Comfortline R-Line Black Edition 4MOTIONin Courtenay",
       "condition": "used",
       "price": 42250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen ID. Buzz ",
-      "vin": "WVG6YVEB0SH029959",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/f2908347cccd.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "ID. Buzz",
-      "condition": "new",
-      "price": 67550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VVUC7B23SM065071",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/a4a53b43025e.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 30650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Tiguan ",
-      "vin": "3VVMR7RMXSM010249",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/fd7ae6aa765f.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 40745.0,
       "price_currency": "CAD"
     },
     {
@@ -727,36 +698,35 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Atlas ",
-      "vin": "1V2LN2CA2TC546296",
+      "name": "2026 Volkswagen Atlasin Courtenay",
+      "vin": "1V2BN2CA7TC562392",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/79a630e5c656.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Atlasin Courtenay",
       "condition": "new",
-      "price": 55312.0,
+      "price": 54337.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Atlas Cross Sport ",
+      "name": "2026 Volkswagen Atlas Cross Sportin Courtenay",
       "vin": "1V2BC2CA5TC221191",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/85a9fa5a9056.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport",
+      "model": "Atlas",
       "condition": "new",
-      "price": 61212.0,
+      "price": 53237.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Golf GTI ",
-      "vin": "WVWRE7CD3TW223117",
+      "name": "2026 Volkswagen Golf GTIin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/996b3474c115.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Golf GTI",
+      "model": "Golf",
       "condition": "new",
-      "price": 45712.0,
+      "price": 40237.0,
       "price_currency": "CAD"
     },
     {
@@ -766,18 +736,17 @@
       "make": "Volkswagen",
       "model": "Golf",
       "condition": "new",
-      "price": 53937.0,
+      "price": 52937.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Jetta ",
-      "vin": "3VWSW7BU9TM033755",
+      "name": "2026 Volkswagen Jettain Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/3a627003cb0f.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta",
+      "model": "Jettain Courtenay",
       "condition": "new",
-      "price": 34512.0,
+      "price": 29937.0,
       "price_currency": "CAD"
     },
     {
@@ -897,7 +866,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
-      "price": 63612.0,
+      "price": 59212.0,
       "price_currency": "CAD"
     },
     {
@@ -908,7 +877,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
-      "price": 63612.0,
+      "price": 59212.0,
       "price_currency": "CAD"
     },
     {
