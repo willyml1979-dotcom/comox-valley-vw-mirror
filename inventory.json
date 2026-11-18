@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Vw",
-  "generated_at": "2026-11-17T08:03:08",
+  "generated_at": "2026-11-17T23:58:54",
   "vehicle_count": 124,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -94,6 +94,38 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Audi Q3 2025 for salein Courtenay",
+      "vin": "WA1EECF31S1112355",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/c5e00596bbee.html",
+      "condition": "used",
+      "price": 39650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Audi Q5 2025 for salein Courtenay",
+      "vin": "WA14AAFY5S2007836",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/4e85aa68ae48.html",
+      "condition": "used",
+      "price": 55250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen ID. Buzz 2025 for salein Courtenay",
+      "vin": "WVG6YVEB5SH038608",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/f2908347cccd.html",
+      "condition": "used",
+      "price": 69745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2025 for salein Courtenay",
+      "vin": "3VVMR7RMXSM010249",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/fd7ae6aa765f.html",
+      "condition": "used",
+      "price": 38250.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "GMC Sierra 1500 2026 for salein Courtenay",
       "vin": "1GTUUCED4TZ432237",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/4cd734a41a63.html",
@@ -179,7 +211,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used",
-      "price": 29745.0,
+      "price": 26650.0,
       "price_currency": "CAD"
     },
     {
@@ -243,7 +275,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 28650.0,
+      "price": 26650.0,
       "price_currency": "CAD"
     },
     {
@@ -298,7 +330,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 20650.0,
+      "price": 19250.0,
       "price_currency": "CAD"
     },
     {
@@ -483,7 +515,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 40650.0,
+      "price": 39650.0,
       "price_currency": "CAD"
     },
     {
@@ -494,18 +526,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 40650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 ",
-      "vin": "WA1EECF34S1112382",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/c5e00596bbee.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 40650.0,
+      "price": 39650.0,
       "price_currency": "CAD"
     },
     {
@@ -516,18 +537,7 @@
       "make": "Audi",
       "model": "Q5",
       "condition": "used",
-      "price": 56650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q5 ",
-      "vin": "WA14AAFY5S2007836",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/4e85aa68ae48.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 56650.0,
+      "price": 55250.0,
       "price_currency": "CAD"
     },
     {
@@ -564,17 +574,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen ID. Buzz ",
-      "vin": "WVG6YVEB0SH029959",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/f2908347cccd.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "ID. Buzz",
-      "condition": "used",
-      "price": 67550.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Tiguan Comfortline 4MOTIONin Courtenay",
       "vin": "3VVMR7RMXSM010249",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/c95f48781bd3.html",
@@ -593,7 +592,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 49745.0,
+      "price": 48250.0,
       "price_currency": "CAD"
     },
     {
@@ -604,7 +603,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 49745.0,
+      "price": 48250.0,
       "price_currency": "CAD"
     },
     {
@@ -615,18 +614,7 @@
       "make": "Volkswagen",
       "model": "Tiguan Comfortline R-Line Black Edition 4MOTIONin Courtenay",
       "condition": "used",
-      "price": 42745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Tiguan ",
-      "vin": "3VVMR7RMXSM010249",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/used/fd7ae6aa765f.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 40745.0,
+      "price": 42250.0,
       "price_currency": "CAD"
     },
     {
