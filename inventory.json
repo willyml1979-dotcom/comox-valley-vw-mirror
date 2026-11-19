@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Vw",
-  "generated_at": "2026-11-18T19:35:55",
+  "generated_at": "2026-11-18T19:42:57",
   "vehicle_count": 122,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -760,25 +760,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Taos ",
+      "name": "2026 Volkswagen Taosin Courtenay",
       "vin": "3VV8C7B25TM056052",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/05cf08d09aad.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taosin Courtenay",
       "condition": "new",
-      "price": 35637.0,
+      "price": 33162.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Tiguan ",
+      "name": "2026 Volkswagen Tiguanin Courtenay",
       "vin": "3VVBR7RM5TM051350",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/ca1649df4cfa.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Tiguanin Courtenay",
       "condition": "new",
-      "price": 41562.0,
+      "price": 40087.0,
       "price_currency": "CAD"
     },
     {
@@ -789,7 +789,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
-      "price": 63612.0,
+      "price": 59212.0,
       "price_currency": "CAD"
     },
     {
@@ -800,7 +800,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "new",
-      "price": 65012.0,
+      "price": 60012.0,
       "price_currency": "CAD"
     },
     {
@@ -954,7 +954,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 45562.0,
+      "price": 41062.0,
       "price_currency": "CAD"
     },
     {
@@ -980,47 +980,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Atlas ",
+      "name": "2027 Volkswagen Atlasin Courtenay",
       "vin": "1V2D53DH1VC502492",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/eca149b5c94b.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Atlasin Courtenay",
       "condition": "new",
-      "price": 63662.0,
+      "price": 57137.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen GLI ",
+      "name": "2027 Volkswagen Jetta GLIin Courtenay",
       "vin": "3VW2M7BUXVM012423",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/8c8499bde84e.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "GLI",
+      "model": "Jetta",
       "condition": "new",
-      "price": 38562.0,
+      "price": 38637.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Jetta ",
+      "name": "2027 Volkswagen Jettain Courtenay",
       "vin": "3VWSW7BU9VM008857",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/a6bed0f35831.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta",
+      "model": "Jettain Courtenay",
       "condition": "new",
-      "price": 33262.0,
+      "price": 32737.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Taos ",
+      "name": "2027 Volkswagen Taosin Courtenay",
       "vin": "3VV8D7B26VM002257",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-vw-mirror/new/eb14dccd1676.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taosin Courtenay",
       "condition": "new",
-      "price": 34462.0,
+      "price": 33662.0,
       "price_currency": "CAD"
     },
     {
